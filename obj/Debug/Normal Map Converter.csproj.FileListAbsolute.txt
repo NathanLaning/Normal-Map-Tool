@@ -1,0 +1,10 @@
+C:\Users\Nate\Source\Repos\Image-Manipulation\Normal Map Converter\bin\Debug\Normal Map Converter.exe.config
+C:\Users\Nate\Source\Repos\Image-Manipulation\Normal Map Converter\bin\Debug\Normal Map Converter.exe
+C:\Users\Nate\Source\Repos\Image-Manipulation\Normal Map Converter\bin\Debug\Normal Map Converter.pdb
+C:\Users\Nate\Source\Repos\Image-Manipulation\Normal Map Converter\obj\Debug\Normal_Map_Converter.Form1.resources
+C:\Users\Nate\Source\Repos\Image-Manipulation\Normal Map Converter\obj\Debug\Normal_Map_Converter.Properties.Resources.resources
+C:\Users\Nate\Source\Repos\Image-Manipulation\Normal Map Converter\obj\Debug\Normal Map Converter.csproj.GenerateResource.cache
+C:\Users\Nate\Source\Repos\Image-Manipulation\Normal Map Converter\obj\Debug\Normal Map Converter.csproj.CoreCompileInputs.cache
+C:\Users\Nate\Source\Repos\Image-Manipulation\Normal Map Converter\obj\Debug\Normal Map Converter.exe
+C:\Users\Nate\Source\Repos\Image-Manipulation\Normal Map Converter\obj\Debug\Normal Map Converter.pdb
+C:\Users\Nate\Source\Repos\Image-Manipulation\Normal Map Converter\obj\Debug\Normal Map Converter.csprojAssemblyReference.cache
